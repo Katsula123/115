@@ -1,0 +1,12 @@
+# macOS / Windows 系統檔
+.DS_Store
+Thumbs.db
+
+# Obsidian 個人介面狀態（保留外掛設定，忽略視窗暫存）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 暫存與快取
+*.tmp
+*.bak
+.qmd/
